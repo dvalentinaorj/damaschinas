@@ -1,14 +1,14 @@
 #  Checkers Game (Damas chinas)
 
 ---
-#  Creado por;
+#  Creado por:
 
 * Ana llorente
-* Valentina Orjuela
+* Dana Valentina Orjuela
   
 ---
 #  Caracteristicas 
-* Hecho en **C++** con **SFML 2.6.2**  
+* Hecho en **C++** con **SFML 3.0**  
 * Interfaz gráfica con tablero y botones  
 * Proyecto de Damas clásicas  
   
