@@ -1,4 +1,4 @@
-#  Checkers Game (Damas internacionales)
+# Damas internacionales (International Draughts)
 
 ---
 #  Creado por:
@@ -7,9 +7,9 @@
 * Dana Valentina Orjuela
   
 ---
-#  Caracteristicas 
-* Hecho en **C++** con **SFML 3.0**  
-* Interfaz gráfica con tablero y botones  
+#  Características 
+* Hecho en **C++**  
+* Interfaz gráfica
 * Proyecto de Damas clásicas  
   
 ---
